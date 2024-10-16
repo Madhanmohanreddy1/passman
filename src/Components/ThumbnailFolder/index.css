@@ -1,0 +1,10 @@
+.list-style {
+  list-style-type: none;
+}
+.images-styles {
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}

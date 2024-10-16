@@ -1,0 +1,14 @@
+.list-style {
+  list-style-type: none;
+}
+.color-paragraph {
+  color: white;
+  font-family: 'Roboto';
+  margin-right: 30px;
+}
+
+.color-for-special {
+  text-decoration: underline;
+  color: burlywood;
+  text-decoration-color: burlywood;
+}
